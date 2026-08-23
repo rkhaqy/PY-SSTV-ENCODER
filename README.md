@@ -5,7 +5,7 @@
 
 1. pip install pysstv pillow
 
-2. insert image of what you want
+2. insert image of what you want to this folder
 
 # ENJOY
 
